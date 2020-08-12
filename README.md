@@ -1,9 +1,3 @@
-![GitHub](https://img.shields.io/github/license/JWooni/practiceBoard)
-![GitHub contributors](https://img.shields.io/github/contributors/JWooni/practiceBoard)
-![GitHub last commit](https://img.shields.io/github/last-commit/JWooni/practiceBoard)
-![GitHub forks](https://img.shields.io/github/forks/JWooni/practiceBoard?style=social)
-![GitHub stars](https://img.shields.io/github/stars/JWooni/practiceBoard?style=social)
-
 # 나홀로_게시판 (SOLO_Board)
 
 ## 기술 스택 소개
