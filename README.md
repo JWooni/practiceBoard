@@ -20,7 +20,6 @@
     <img src="https://avatars2.githubusercontent.com/u/45754698?s=460&u=d13cb5f5bb10c17defdc1e1f97d341949cc8af6d&v=4" title="JWooni" width="70" height="70">
 </a>
 
- -1,16 +1,6 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JWooni)](https://github.com/anuraghazra/github-readme-stats)
 
