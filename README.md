@@ -1,8 +1,8 @@
-![GitHub](https://img.shields.io/github/license/JWooni/practice_Board)
-![GitHub contributors](https://img.shields.io/github/contributors/JWooni/practice_Board)
-![GitHub last commit](https://img.shields.io/github/last-commit/JWooni/practice_Board)
-![GitHub forks](https://img.shields.io/github/forks/JWooni/practice_Board?style=social)
-![GitHub stars](https://img.shields.io/github/stars/JWooni/practice_Board?style=social)
+![GitHub](https://img.shields.io/github/license/JWooni/practiceBoard)
+![GitHub contributors](https://img.shields.io/github/contributors/JWooni/practiceBoard)
+![GitHub last commit](https://img.shields.io/github/last-commit/JWooni/practiceBoard)
+![GitHub forks](https://img.shields.io/github/forks/JWooni/practiceBoard?style=social)
+![GitHub stars](https://img.shields.io/github/stars/JWooni/practiceBoard?style=social)
 
 # 나홀로_게시판 (SOLO_Board)
 
