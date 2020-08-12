@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/JWooni/practice_Board?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/JWooni/practice_Board?style=social)
 
-# 아대숲 온라인 알고리즘 스터디 (OnAlSt)
+# 나홀로_게시판 (SOLO_Board)
 
 ## 기술 스택 소개
 - Java
