@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```
-Hello, My name is JoungSik Kim.
+Hello, My name is JWooni Kim.
 I working as a software developer.
 ```
